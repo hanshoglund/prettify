@@ -1,0 +1,23 @@
+
+name:           prettify
+version:        0.5
+cabal-version:  >= 1.2
+build-type:     Simple
+author:         Hans Hoglund
+synopsis:       Haskell2010 structured text formatting
+category:       Text
+tested-with:    GHC
+
+description: 
+    A modern take on structured text formatting, also known as pretty-printing. 
+    Based on the classic pretty package by John Hughes and Simon Peyton Jones.
+
+library                    
+    build-depends: 
+        base, 
+        semigroups,
+        containers
+    hs-source-dirs: src
+    exposed-modules:
+        Text.Pretty
+    
