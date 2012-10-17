@@ -158,7 +158,7 @@ list z f (x:xs) = x `f` xs
 --
 -- The Pretty class is similar to 'Show', but converts values to 'Printer's instead 
 -- of 'Strings'. A printer is essentially a string with some extra structural information
--- such as length and identation.
+-- such as length and indentation.
 --
 -- Note that the instances for primitive types, lists and tuples all satisfy
 --
