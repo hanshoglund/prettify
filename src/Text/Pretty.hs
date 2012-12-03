@@ -8,12 +8,15 @@
 -- License     :  BSD-style (see the file LICENSE)
 --
 -- Maintainer  :  Hans Hoglund <hans@hanshoglund.se>
--- Stability   :  stable
+-- Stability   :  experimental
 -- Portability :  portable
 --
 -- This library was based on /The Design of a Pretty-printing Library/ by Jeuring and 
--- Meijer, heavily modified by Simon Peyton Jones (December 1996) and largely 
--- rewritten by Hans Hoglund (October 2012).
+-- Meijer.
+--
+-- Heavily modified by Simon Peyton Jones (December 1996).
+--
+-- Less heavily modifications by Hans Hoglund (October 2012).
 --
 -----------------------------------------------------------------------------
 module Text.Pretty (
