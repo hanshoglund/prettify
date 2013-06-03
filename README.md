@@ -1,8 +1,9 @@
 
 ## Prettify
 
-A modern take on structured text formatting, also known as pretty-printing.
-Based on the classic pretty package by John Hughes and Simon Peyton-Jones.
+A modern take on structured text formatting, also known as pretty-printing. 
+
+Based on the classic pretty package by Hughes, Peyton-Jones et al.
 
 ## Requirements
 
