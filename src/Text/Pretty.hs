@@ -16,7 +16,7 @@
 --
 -- Heavily modified by Simon Peyton Jones (December 1996).
 --
--- Less heavily modifications by Hans Hoglund (October 2012).
+-- Lightly modified by Hans Hoglund (October 2012).
 --
 -----------------------------------------------------------------------------
 module Text.Pretty (
